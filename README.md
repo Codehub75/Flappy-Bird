@@ -1,4 +1,6 @@
 # Flappy-Bird
-flappy bird game in python using pygame
-download all the image files and the source code to run the program 
-feel free to request changes
+Flappy bird game in python using pygame
+
+To run this game in your pc download all the image files along with source code to run the program
+
+Feel free to request any changes
